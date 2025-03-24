@@ -1,8 +1,12 @@
 {
   "name": "desafio-react-001",
   "private": true,
-  "version": "0.0.0",
+  "version": "0.1.0",
   "type": "module",
+  "author": {
+    "name": "Guilherme Alexandre",
+    "email": "guilhermegrilo2009@hotmail.com"
+  },
   "scripts": {
     "dev": "vite",
     "build": "tsc -b && vite build",
